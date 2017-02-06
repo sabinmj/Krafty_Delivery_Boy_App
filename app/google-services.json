@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "740301417470",
+    "firebase_url": "https://krafty-4136d.firebaseio.com",
+    "project_id": "krafty-4136d",
+    "storage_bucket": "krafty-4136d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740301417470:android:182379fe490eda16",
+        "android_client_info": {
+          "package_name": "com.example.sabinmj.krafty_delivery_boy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740301417470-2ffa6h18daatjcp3mdp9hpsphh3qmnuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sabinmj.krafty_delivery_boy_app",
+            "certificate_hash": "4F6C40100A793FDA145283D6F90EB07F3BFBDDD3"
+          }
+        },
+        {
+          "client_id": "740301417470-n43m0unqt815vlgvauqtn6aak64qvd4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm4mR6it0tKuUaLGALKh7lYzXcakSKWEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740301417470-n43m0unqt815vlgvauqtn6aak64qvd4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Delivery Boy App</string>
+    <string name="Task">Task</string>
+    <string name="More_Details">More Details</string>
+    <string name="external_dir">GetSignature</string>
+    <string name="textView2">textView2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="str_atv_places">Enter Place Here</string>
+
+
+</resources>
